@@ -1,4 +1,6 @@
-# Description for LinkedIn Profile**
+# Dicoding Machine Learning Intermediate
+
+## Sentiment Analysis Tokopedia App Using Machine Learning Techniques
 
 Developed a comprehensive Google Play Scraper and Sentiment Analysis System for analyzing app reviews, focusing on Mobile Legends and Tokopedia reviews on the Play Store. The project involved several critical steps and components, including:
 
@@ -36,3 +38,7 @@ Developed a comprehensive Google Play Scraper and Sentiment Analysis System for 
     - Presented the sorted results in a clear, readable format to facilitate easy interpretation of the model performance.
 
 This project showcases my ability to handle end-to-end data processing and machine learning pipeline development, from data scraping and preprocessing to model training, evaluation, and deployment. It demonstrates proficiency in Python programming, text processing, and machine learning techniques, with a focus on achieving high accuracy and efficient data handling.
+
+## Image Classification
+
+soon
